@@ -1,4 +1,4 @@
-##Price Elasticity & Discount Optimization 
+Price Elasticity & Discount Optimization 
 
 Python, Statsmodels
 – Conducted price elasticity analysis on over 149,000 cafe transactions using log-log regression models to assess
